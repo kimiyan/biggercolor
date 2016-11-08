@@ -1,3 +1,2 @@
 # biggercolor
 
-#Installation

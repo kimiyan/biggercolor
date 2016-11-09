@@ -23,7 +23,7 @@
     return [UIColor bigger_colorWithRed:arc4random_uniform(256) green:arc4random_uniform(256) blue:arc4random_uniform(256) alpha:1];
 }
 
-+(instancetype)biger_color {
++(instancetype)bigger_color {
     return [UIColor bigger_colorWithRed:arc4random_uniform(256) green:arc4random_uniform(256) blue:arc4random_uniform(256) alpha:(arc4random_uniform(10) + 3) * 0.1];
 }
 

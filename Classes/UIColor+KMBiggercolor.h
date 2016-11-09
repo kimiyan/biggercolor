@@ -32,7 +32,7 @@
 
  @return 高逼格颜色
  */
-+ (nonnull instancetype)biger_color;
++ (nonnull instancetype)bigger_color;
 
 /**
  使用 R / G / B 数值创建颜色

@@ -17,3 +17,6 @@
 ###### set up a very cool color~~~~
 ######设置一个很酷的颜色 大招
     UIColor *color = [UIColor bigger_color];
+
+
+![alt text](https://github.com/kimiyan/biggercolor/blob/master/Image/image2.png)

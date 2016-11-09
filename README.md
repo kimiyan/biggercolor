@@ -20,3 +20,4 @@
 
 
 ![alt text](https://github.com/kimiyan/biggercolor/blob/master/Image/image2.png)
+![alt text](https://github.com/kimiyan/biggercolor/blob/master/Image/image1.png)
